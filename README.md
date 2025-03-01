@@ -1,4 +1,4 @@
-Here’s a cleaned-up and more readable version of the text in Markdown format. You can upload this to your GitHub account as a `.md` file.
+
 
 ````markdown
 # Django REST Framework Authentication Guide
